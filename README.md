@@ -1,8 +1,7 @@
-  prateek041 **DevOps-90days**
+**DevOps-90days**
 
 
-I saw how prateek041 used saiyam's roadmap
-I plan on changing the order on the manner of learning 
+
 
 
 Topics:
